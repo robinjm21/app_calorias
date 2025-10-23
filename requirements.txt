@@ -1,2 +1,2 @@
-matplotlib
-win10toast
+matplotlib==3.10.7
+win10toast==0.9
