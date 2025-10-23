@@ -46,3 +46,7 @@ Desktop.ini
 
 # Misc
 pip-log.txt
+
+# CSV data files
+*.csv
+historial.csv
